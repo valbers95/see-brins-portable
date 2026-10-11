@@ -1,0 +1,16 @@
+{
+  "version": "0.16.2",
+  "format": "Base64(XZ(ZIP-STORED))",
+  "compressedBytes": 78872,
+  "base64Bytes": 106548,
+  "compressedSHA256": "dfe502c7a8c76a66dc8d51ceafd89b354b41e49fd51e37a0f4f5ea16838abe91",
+  "zipSHA256": "c07e154bd85a20b15411a96c8aa9b4898825057471b2ddae5e8e75d9d8f5b1a7",
+  "contents": [
+    "Gerer-plugin.exe",
+    "Gerer-plugin.sh",
+    "LIRE-MOI.txt",
+    "SeeApiProbe.dll",
+    "SeeCableTools.dll"
+  ],
+  "runtimeValidatedOnWorkPC": false
+}
